@@ -1,0 +1,4 @@
+project
+.vagrant
+provisioning
+vagrant_ansible_inventory_default
